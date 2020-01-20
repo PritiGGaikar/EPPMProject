@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back</name>
+   <tag></tag>
+   <elementGuidId>16ac172d-734b-4d94-8be4-8646fe8fa031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/app-core/div/div[1]/div[2]/div/app-common/div/div[2]/app-competency-matrix/div/div/div/div[2]/div/button[contains(text(),'Back')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/app-core/div/div[1]/div[2]/div/app-common/div/div[2]/app-competency-matrix/div/div/div/div[2]/div/button[contains(text(),'Back')]</value>
+   </webElementProperties>
+</WebElementEntity>

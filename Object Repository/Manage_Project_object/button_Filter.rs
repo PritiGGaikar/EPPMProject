@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filter</name>
+   <tag></tag>
+   <elementGuidId>b5007e6b-d5b4-4fb7-8fdf-15a5f454323a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='root']/app-core/div/div/div[2]/div/app-common/div/div[2]/app-project-list/div/div/div[2]/div[2]/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='root']/app-core/div/div/div[2]/div/app-common/div/div[2]/app-project-list/div/div/div[2]/div[2]/div[2]/label</value>
+   </webElementProperties>
+</WebElementEntity>

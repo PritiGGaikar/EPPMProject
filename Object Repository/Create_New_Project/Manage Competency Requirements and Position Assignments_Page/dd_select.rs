@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dd_select</name>
+   <tag></tag>
+   <elementGuidId>1213c093-abd3-474d-8636-3732e03a3cf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-task-positions/fieldset/div[2]/div/div[1]/div[2]/p-multiselect/div/div[2]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-task-positions/fieldset/div[2]/div/div[1]/div[2]/p-multiselect/div/div[2]/label</value>
+   </webElementProperties>
+</WebElementEntity>

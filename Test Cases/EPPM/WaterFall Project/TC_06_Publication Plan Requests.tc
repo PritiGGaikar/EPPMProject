@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06_Publication Plan Requests</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9fd24fb-8592-44a2-af83-9f2ce317d386</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df815820-98d1-44c0-b3eb-4446c7fa3516</id>
+      <masked>false</masked>
+      <name>ProejctName</name>
+   </variable>
+</TestCaseEntity>

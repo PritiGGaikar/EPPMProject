@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Create_New_Sprint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9270b77d-3329-4dfe-ad49-f37a505ef3d0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23636114-a5c5-492a-8870-ee4253994e22</id>
+      <masked>false</masked>
+      <name>SprintDuration</name>
+   </variable>
+</TestCaseEntity>

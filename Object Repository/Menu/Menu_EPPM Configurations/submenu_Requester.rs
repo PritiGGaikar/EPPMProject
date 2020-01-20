@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>submenu_Requester</name>
+   <tag></tag>
+   <elementGuidId>8287d3b4-d99f-41ae-8b73-d941bd73e616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbar-collapse-1&quot;]/div/ul/li/ul/li/ul/li/a[contains(text(),'Requester')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbar-collapse-1&quot;]/div/ul/li/ul/li/ul/li/a[contains(text(),'Requester')]</value>
+   </webElementProperties>
+</WebElementEntity>

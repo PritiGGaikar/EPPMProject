@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>3a057d64-a5e4-4e68-b17f-3dc8b639be34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//dynamic-form/dynamic-form-container/div[2]/div/form-button[3]/button[contains(text(),'Cancel')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//dynamic-form/dynamic-form-container/div[2]/div/form-button[3]/button[contains(text(),'Cancel')]</value>
+   </webElementProperties>
+</WebElementEntity>

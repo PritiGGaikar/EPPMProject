@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Manage_Position</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6dbd9932-393f-483e-99fe-be4643a3b886</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4bad67c4-90af-4d86-b2bc-5a2ba8f95093</id>
+      <masked>false</masked>
+      <name>GenericResourceDD_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5781fae2-b33e-4fb0-9b64-5460ba0983d3</id>
+      <masked>false</masked>
+      <name>GenericResourceDD_2</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filter</name>
+   <tag></tag>
+   <elementGuidId>9762dfea-acdc-4519-acbe-b5093e005a9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-work-sheet-grid/div/div/div/div[1]/div[4]/div/span/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-work-sheet-grid/div/div/div/div[1]/div[4]/div/span/label</value>
+   </webElementProperties>
+</WebElementEntity>

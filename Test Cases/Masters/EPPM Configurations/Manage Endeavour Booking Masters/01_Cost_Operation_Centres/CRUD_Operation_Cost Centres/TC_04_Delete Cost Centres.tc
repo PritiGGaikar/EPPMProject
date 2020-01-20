@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Delete Cost Centres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e458fe1b-4df3-4179-8c29-5d449731276c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ca3d46e-8ba2-4122-9dfb-1a25ad9f29c2</id>
+      <masked>false</masked>
+      <name>Name_Update_Cost_Centre</name>
+   </variable>
+</TestCaseEntity>

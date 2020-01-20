@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Revert Cost Centres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1ec4d9f-9a87-45da-a03d-512ac13e0fa0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3333530-5957-4c62-a7e0-45aa8c5783bb</id>
+      <masked>false</masked>
+      <name>Name_Create_Cost_Centre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c86fc1d4-4a95-48cf-aef6-ca8102b0b589</id>
+      <masked>false</masked>
+      <name>Name_Revert_Cost_Centre</name>
+   </variable>
+</TestCaseEntity>

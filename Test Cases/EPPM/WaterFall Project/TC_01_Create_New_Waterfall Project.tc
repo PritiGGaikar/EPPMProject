@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Create_New_Waterfall Project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad0e7aff-bd35-477f-aef3-ba0a35b882d1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>597845fc-ce8f-480b-bc4f-6f1d606f5f05</id>
+      <masked>false</masked>
+      <name>ProejctName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9ce84c9-175c-4b4a-8893-0430268e5559</id>
+      <masked>false</masked>
+      <name>ClientDD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7f2bc18-5721-4e1a-ab29-c0b15684ae5b</id>
+      <masked>false</masked>
+      <name>ProjectCategoryDD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e1587fa-7f5f-4440-87e7-abe402f0cdbe</id>
+      <masked>false</masked>
+      <name>ManagerDD</name>
+   </variable>
+</TestCaseEntity>

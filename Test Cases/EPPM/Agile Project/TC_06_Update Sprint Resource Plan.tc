@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_06_Update Sprint Resource Plan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9110d3bc-86d7-40bc-a51f-1d3f831d33ae</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5b0714d-8359-4754-a4fc-35e840e03273</id>
+      <masked>false</masked>
+      <name>GenericResourceDD_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>90ac28e6-ed8d-48b0-a4ca-608238563035</id>
+      <masked>false</masked>
+      <name>ShiftCalendarDD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02c24158-c974-4a5d-9070-6e056cb7e318</id>
+      <masked>false</masked>
+      <name>GenericResourceDD_2</name>
+   </variable>
+</TestCaseEntity>

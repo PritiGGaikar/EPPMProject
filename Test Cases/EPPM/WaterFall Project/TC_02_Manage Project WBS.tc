@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Manage Project WBS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>443136ae-3e22-44e9-9987-d9fd8f2bec59</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>167ddf3f-260e-40b1-b4b0-f27313724f02</id>
+      <masked>false</masked>
+      <name>ProejctName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32fb672c-81d1-4967-9834-302a9af47b3d</id>
+      <masked>false</masked>
+      <name>AddNetworkElementDD_Task</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67675f12-95f6-4b45-aa70-c33888d1d593</id>
+      <masked>false</masked>
+      <name>TaskName</name>
+   </variable>
+</TestCaseEntity>

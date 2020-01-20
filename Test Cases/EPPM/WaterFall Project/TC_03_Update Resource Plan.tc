@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Update Resource Plan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d54abc6-cf78-40af-b80d-03f355224aaa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f2f3f47d-fc19-475d-b45b-e62f2e937d84</id>
+      <masked>false</masked>
+      <name>GenericResourceDD_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7728964-0514-42d5-9c2e-c043941aff56</id>
+      <masked>false</masked>
+      <name>ShiftCalendarDD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a6612fcc-4f28-4b6e-bcdd-40083086f380</id>
+      <masked>false</masked>
+      <name>GenericResourceDD_2</name>
+   </variable>
+</TestCaseEntity>

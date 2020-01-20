@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+AgileProject,Chrome 79.0.3945.117,,2020-01-16 12:55:26,2020-01-16 14:03:13,1h - 7m - 46.823s,PASSED
+,,,,,,
+Test Cases/Common Test Cases/do_Login,Chrome 79.0.3945.117,,2020-01-16 12:57:05,2020-01-16 14:02:42,1h - 5m - 37.426s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 79.0.3945.117,,2020-01-16 12:57:05,2020-01-16 12:57:05,0.016s,PASSED
+navigateToUrl,Chrome 79.0.3945.117,,2020-01-16 12:57:05,2020-01-16 13:58:42,1h - 1m - 36.284s,PASSED
+com.eppm.keywords.TestBase.sendkeyElement,Chrome 79.0.3945.117,input username,2020-01-16 13:58:42,2020-01-16 14:00:12,1m - 30.260s,PASSED
+com.eppm.keywords.TestBase.sendkeyElement,Chrome 79.0.3945.117,input password,2020-01-16 14:00:12,2020-01-16 14:01:42,1m - 30.250s,PASSED
+com.eppm.keywords.TestBase.clickElement,Chrome 79.0.3945.117,click on login button,2020-01-16 14:01:42,2020-01-16 14:02:42,1m - 0.219s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 79.0.3945.117,,2020-01-16 14:02:42,2020-01-16 14:02:42,0.006s,PASSED

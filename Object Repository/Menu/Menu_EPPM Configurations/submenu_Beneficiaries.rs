@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>submenu_Beneficiaries</name>
+   <tag></tag>
+   <elementGuidId>82f98bd8-e964-4957-b6ff-4cced303c356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbar-collapse-1&quot;]/div/ul/li/ul/li/ul/li/a[contains(text(),'Beneficiaries')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbar-collapse-1&quot;]/div/ul/li/ul/li/ul/li/a[contains(text(),'Beneficiaries')]</value>
+   </webElementProperties>
+</WebElementEntity>

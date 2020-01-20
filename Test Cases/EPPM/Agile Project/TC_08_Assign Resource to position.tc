@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08_Assign Resource to position</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47c87d5e-0a40-4237-b19a-0cc86b072aa8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b147cc53-c546-481f-84a5-9600a6e3e22a</id>
+      <masked>false</masked>
+      <name>Resource_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58604737-1872-4cb1-a63c-9c6fc8fe0c4d</id>
+      <masked>false</masked>
+      <name>Resource_2</name>
+   </variable>
+</TestCaseEntity>

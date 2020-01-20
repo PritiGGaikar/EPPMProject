@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Manage Project Backlog</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f9df14d-32ce-4a98-a2c2-4f43cefe0a60</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2144fb0-ac2c-4601-aa2a-093f20d42ca7</id>
+      <masked>false</masked>
+      <name>ProejctName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99120633-47a7-4fa6-be09-c8bc02846efb</id>
+      <masked>false</masked>
+      <name>AddNetworkElementDD_PBI</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a7c49d2-3500-43e6-bbd8-8df8d7f74b23</id>
+      <masked>false</masked>
+      <name>PBIName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ea39772-2ff8-4c0f-9548-f4c3d64c2913</id>
+      <masked>false</masked>
+      <name>AddNetworkElementDD_Task</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>882b396d-82af-4427-a670-17d1d74168fd</id>
+      <masked>false</masked>
+      <name>TaskName</name>
+   </variable>
+</TestCaseEntity>

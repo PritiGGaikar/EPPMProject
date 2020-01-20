@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AgileProject" time="4066" tests="1" failures="0" errors="0">
+   <testsuite name="AgileProject" tests="1" failures="0" errors="0" time="4066" timestamp="2020-01-16 12:55:26" hostname="paramatrix - PTW10DE007" id="Test Suites/AgileProject">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\paramatrix\\Desktop\\Automation KT session\\EPPMProject\\Reports\\AgileProject\\20200116_125523"/>
+         <property name="logFiles" value="C:\\Users\\paramatrix\\Desktop\\Automation KT session\\EPPMProject\\Reports\\AgileProject\\20200116_125523\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="paramatrix - PTW10DE007"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.3.2"/>
+         <property name="browser" value="Chrome 79.0.3945.117"/>
+         <property name="hostAddress" value="172.16.21.30"/>
+         <property name="sessionId" value="545ed08c8baacd7eb05b7b7dc62feaf9"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Common Test Cases/do_Login" classname="Test Cases/Common Test Cases/do_Login" status="PASSED">
+         <system-out><![CDATA[2020-01-16 12:57:05 - [TEST_CASE][PASSED] - Test Cases/Common Test Cases/do_Login: Test Cases/Common Test Cases/do_Login
+
+2020-01-16 12:57:05 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'NewTestListener.sampleBeforeTestCase(...)' completed.
+
+2020-01-16 12:57:05 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseId()): null
+
+2020-01-16 12:57:05 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseVariables()): Invoke 'com.kms.katalon.core.annotation.BeforeTestCase' method: 'NewTestListener.sampleBeforeTestCase(...)' completed.
+
+2020-01-16 12:57:05 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://staging.eppmagic.com/' successfully
+
+2020-01-16 13:58:42 - [MESSAGE][PASSED] - Navigate to 'https://staging.eppmagic.com/' successfully
+
+2020-01-16 13:58:42 - [TEST_STEP][PASSED] - com.eppm.keywords.TestBase.sendkeyElement: Sendkey value has been send
+
+2020-01-16 13:59:42 - [MESSAGE][PASSED] - Element has been cleared
+
+2020-01-16 14:00:12 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2020-01-16 14:00:12 - [TEST_STEP][PASSED] - com.eppm.keywords.TestBase.sendkeyElement: Sendkey value has been send
+
+2020-01-16 14:01:12 - [MESSAGE][PASSED] - Element has been cleared
+
+2020-01-16 14:01:42 - [MESSAGE][PASSED] - Sendkey value has been send
+
+2020-01-16 14:01:42 - [TEST_STEP][PASSED] - com.eppm.keywords.TestBase.clickElement: Element has been clicked
+
+2020-01-16 14:02:42 - [MESSAGE][PASSED] - Element has been clicked
+
+2020-01-16 14:02:42 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Invoke 'com.kms.katalon.core.annotation.AfterTestCase' method: 'NewTestListener.sampleAfterTestCase(...)' completed.
+
+2020-01-16 14:02:42 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseId()): null
+
+2020-01-16 14:02:42 - [TEST_STEP][PASSED] - Statement - println(testCaseContext.getTestCaseStatus()): Invoke 'com.kms.katalon.core.annotation.AfterTestCase' method: 'NewTestListener.sampleAfterTestCase(...)' completed.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-01-16 12:55:26 - [TEST_SUITE][PASSED] - AgileProject: Test Cases/Common Test Cases/do_Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

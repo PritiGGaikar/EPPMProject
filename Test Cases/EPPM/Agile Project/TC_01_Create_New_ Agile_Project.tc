@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Create_New_ Agile_Project</name>
+   <tag></tag>
+   <comment>enter Max Allocation hrs per day</comment>
+   <testCaseGuid>d66a910c-8f8b-453b-9642-273bedeeac73</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>66aa4986-e1b7-4219-8a27-72b5d7bb2ade</id>
+      <masked>false</masked>
+      <name>ProejctName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fffc3e6-954d-411a-b8f1-89638a4c3133</id>
+      <masked>false</masked>
+      <name>ClientDD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>538c19ad-2b3c-4ed7-a121-5abce287973f</id>
+      <masked>false</masked>
+      <name>ProjectCategoryDD</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87c326fc-af54-4044-a1f3-f5a84de9f75a</id>
+      <masked>false</masked>
+      <name>ManagerDD</name>
+   </variable>
+</TestCaseEntity>

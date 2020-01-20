@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_TimeSheet</name>
+   <tag></tag>
+   <elementGuidId>1d55c419-3beb-4050-8563-0b71db7e8d92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-work-sheet-grid/div/div/div/div[2]/p-datatable/div/div[1]/table/tbody/tr//span[2]/div/div/div[3]/div/span[1]/span[contains(text(),'01')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-work-sheet-grid/div/div/div/div[2]/p-datatable/div/div[1]/table/tbody/tr//span[2]/div/div/div[3]/div/span[1]/span[contains(text(),'01')]</value>
+   </webElementProperties>
+</WebElementEntity>

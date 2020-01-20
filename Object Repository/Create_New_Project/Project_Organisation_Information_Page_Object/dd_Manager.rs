@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dd_Manager</name>
+   <tag></tag>
+   <elementGuidId>af7004be-1bde-462e-b246-9b287a3292ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//fieldset[2]/div[1]/div//preceding-sibling::select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//fieldset[2]/div[1]/div//preceding-sibling::select</value>
+   </webElementProperties>
+</WebElementEntity>

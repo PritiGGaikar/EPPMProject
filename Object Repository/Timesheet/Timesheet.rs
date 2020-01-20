@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Timesheet</name>
+   <tag></tag>
+   <elementGuidId>e356a6d6-9321-4c31-a284-26aedc506e15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/app-core/div/div[1]/div[1]/div/div[1]/div[3]/div/a[3]/span/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/app-core/div/div[1]/div[1]/div/div[1]/div[3]/div/a[3]/span/img</value>
+   </webElementProperties>
+</WebElementEntity>

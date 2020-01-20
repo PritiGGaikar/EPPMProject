@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Create Cost Centres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9481410f-abc3-4ebb-8b86-859e1c44b4c5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>671fd84f-3687-40a6-bd38-9e78a282132d</id>
+      <masked>false</masked>
+      <name>Name_Create_Cost_Centre</name>
+   </variable>
+</TestCaseEntity>

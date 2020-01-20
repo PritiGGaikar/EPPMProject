@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08_Resource_2_Fill Timesheet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>73c69ff4-9ffd-4002-b0a8-5d35a149cc64</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f4991ba-992f-4688-846b-1f0b84be2d9d</id>
+      <masked>false</masked>
+      <name>ProejctName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4512075b-64b5-4b56-8bfb-f5c664c3a84e</id>
+      <masked>false</masked>
+      <name>DailyWorkTime</name>
+   </variable>
+</TestCaseEntity>

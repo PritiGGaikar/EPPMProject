@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Update Cost Centres</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29b4d9cd-5618-4d36-a03e-24e83c7956a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b50c3090-4024-4469-a010-2908cbd5e252</id>
+      <masked>false</masked>
+      <name>Name_Create_Cost_Centre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e92fa2c-a4f5-4722-a405-53a1b2e4ca1a</id>
+      <masked>false</masked>
+      <name>Name_Update_Cost_Centre</name>
+   </variable>
+</TestCaseEntity>

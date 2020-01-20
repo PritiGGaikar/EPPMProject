@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_Update Sprint WBS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b54d85cd-7c08-4091-bcf2-08bb7fdd77d3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75b83eb5-9990-4ddd-87d9-1cc154062d33</id>
+      <masked>false</masked>
+      <name>WorkinPercent</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Search_NameTxtBox</name>
+   <tag></tag>
+   <elementGuidId>cde778be-8d15-4ebb-90fb-048ff1988990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p-datatable/div/div[1]/table/thead/tr[2]/th[3]/span/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p-datatable/div/div[1]/table/thead/tr[2]/th[3]/span/div/input</value>
+   </webElementProperties>
+</WebElementEntity>

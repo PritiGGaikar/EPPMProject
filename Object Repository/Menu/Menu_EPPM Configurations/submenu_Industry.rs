@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>submenu_Industry</name>
+   <tag></tag>
+   <elementGuidId>c2971216-6b3b-4c5d-8d13-fb8f8cd71f47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;navbar-collapse-1&quot;]/div/ul/li/ul/li/ul/li/a[contains(text(),'Industry')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;navbar-collapse-1&quot;]/div/ul/li/ul/li/ul/li/a[contains(text(),'Industry')]</value>
+   </webElementProperties>
+</WebElementEntity>

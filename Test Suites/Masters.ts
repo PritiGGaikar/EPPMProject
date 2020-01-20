@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Masters</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2020-01-16T15:12:12</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>2ce8c31f-2b04-4ef2-9a24-1eb8d1b81743</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6071cf2-2613-4feb-9d45-3929b91b3b23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Common Test Cases/do_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>188712f5-b275-42da-9c8e-f44b131ba0d6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User_Logins/login_as_CM</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>188712f5-b275-42da-9c8e-f44b131ba0d6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>1eaecd92-e595-4966-8c2f-2229fec260cf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>188712f5-b275-42da-9c8e-f44b131ba0d6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>cc6cd084-1f1c-48f3-bc9f-6524058884a7</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0d7fa0aa-46cc-4260-82d6-bb100b61ece0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Masters/EPPM Configurations/Manage Endeavour Booking Masters/01_Cost_Operation_Centres/CRUD_Operation_Cost Centres/TC_01_Create Cost Centres</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>52da53c2-10d2-4669-b686-1b1276f71ab0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Master/CRUD_Cost_Centre</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>52da53c2-10d2-4669-b686-1b1276f71ab0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name_Create_Cost_Centre</value>
+         <variableId>671fd84f-3687-40a6-bd38-9e78a282132d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>633ba5fb-46cd-47dd-a7de-a42a1f0875e3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Masters/EPPM Configurations/Manage Endeavour Booking Masters/01_Cost_Operation_Centres/CRUD_Operation_Cost Centres/TC_02_Revert Cost Centres</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ed6e88c4-67df-4b34-b696-967b4600ff42</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Master/CRUD_Cost_Centre</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ed6e88c4-67df-4b34-b696-967b4600ff42</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name_Create_Cost_Centre</value>
+         <variableId>b3333530-5957-4c62-a7e0-45aa8c5783bb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ed6e88c4-67df-4b34-b696-967b4600ff42</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name_Revert_Cost_Centre</value>
+         <variableId>c86fc1d4-4a95-48cf-aef6-ca8102b0b589</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21cf026c-e634-41e6-941d-7d027a1e50fa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Masters/EPPM Configurations/Manage Endeavour Booking Masters/01_Cost_Operation_Centres/CRUD_Operation_Cost Centres/TC_03_Update Cost Centres</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5319bbb8-6fe3-4682-b3b4-b324562f02b4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Master/CRUD_Cost_Centre</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5319bbb8-6fe3-4682-b3b4-b324562f02b4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name_Create_Cost_Centre</value>
+         <variableId>b50c3090-4024-4469-a010-2908cbd5e252</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5319bbb8-6fe3-4682-b3b4-b324562f02b4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name_Update_Cost_Centre</value>
+         <variableId>1e92fa2c-a4f5-4722-a405-53a1b2e4ca1a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ba869afa-8e27-4f33-9312-5a79f17271be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Masters/EPPM Configurations/Manage Endeavour Booking Masters/01_Cost_Operation_Centres/CRUD_Operation_Cost Centres/TC_04_Delete Cost Centres</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>314b413b-80bb-4311-b402-fe51f3559d24</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Master/CRUD_Cost_Centre</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>314b413b-80bb-4311-b402-fe51f3559d24</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name_Update_Cost_Centre</value>
+         <variableId>2ca3d46e-8ba2-4122-9dfb-1a25ad9f29c2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

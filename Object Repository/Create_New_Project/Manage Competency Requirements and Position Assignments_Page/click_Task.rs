@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click_Task</name>
+   <tag></tag>
+   <elementGuidId>9b31c9d4-8cfd-497a-a2df-468abac4bff3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//app-generic-tree/div/p-treetable/div/div[2]/table/tbody/div[2]/td/table/tbody/div[2]/td/table/tbody/div/td[1]/span[1]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//app-generic-tree/div/p-treetable/div/div[2]/table/tbody/div[2]/td/table/tbody/div[2]/td/table/tbody/div/td[1]/span[1]/span</value>
+   </webElementProperties>
+</WebElementEntity>
